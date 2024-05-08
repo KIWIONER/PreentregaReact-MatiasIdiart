@@ -1,0 +1,17 @@
+.footer{
+    display:flex;
+    flex-direction: column;
+    width:100%;
+    justify-content: space-evenly;
+    background-color: black;
+}
+.footer p{
+    text-align: center;
+    color:white;
+}
+
+.footer--inner{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+}

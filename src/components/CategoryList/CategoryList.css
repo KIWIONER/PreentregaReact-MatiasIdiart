@@ -1,0 +1,22 @@
+.category__List{
+    display:flex;
+    flex-wrap: wrap;
+    list-style: none;
+    width:150%;
+    justify-content: space-around;
+    
+    padding-right:15px;
+}
+
+.category__List a{
+    /*background-color: black;*/
+    /*color:rgb(0, 0, 0);*/
+    text-decoration: none;
+    padding:10px;
+    border-radius: 5px;;
+}
+
+.active-link{
+    background-color: rgb(0, 0, 0);
+    color:white;
+}

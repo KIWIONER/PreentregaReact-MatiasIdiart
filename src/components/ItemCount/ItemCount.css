@@ -1,0 +1,30 @@
+.item--count-button{
+
+    color:black;
+    width:50px;
+    border: none;
+    padding:2%;
+    margin:5px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.item--cart__container{
+    display: flex;
+    justify-content: center;
+    text-align:center;
+}
+.item--cart__button {
+    display: flex;
+    color:white;
+    background-color: rgb(132, 212, 132);
+    width:130px;
+    padding:10px;
+    margin:10px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    
+    text-align:center;
+
+}

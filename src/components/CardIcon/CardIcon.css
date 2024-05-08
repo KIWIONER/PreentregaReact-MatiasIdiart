@@ -1,0 +1,16 @@
+
+.card--container{
+    display: flex;
+    width:50%;
+    justify-content: end;
+    align-items: center;
+}
+.card--container span{
+    color:white;
+    padding:10px;
+    text-align: center;
+    align-content: center;
+    background-color: black;
+    border-radius: 10%;
+
+}

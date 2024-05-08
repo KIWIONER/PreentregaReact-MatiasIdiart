@@ -1,8 +1,8 @@
 
-const Brand = ()=> {
+const Brand = () => {
     return(
         <div>
-            <h1>KIWI RECETAS</h1>
+            <h1>KIWI . RECETAS</h1>
         </div>
     )
 }

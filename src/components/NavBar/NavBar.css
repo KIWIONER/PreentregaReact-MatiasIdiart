@@ -1,0 +1,6 @@
+.navbar__wrapper{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    align-items: center;
+}
